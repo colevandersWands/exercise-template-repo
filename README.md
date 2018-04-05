@@ -44,7 +44,8 @@ Stick with it!  It's best to learn how to analyze your thinking while the proble
 
 ## Solution Explanation
 
-Explain your solution in detail, however works for you.  Perhaps by using a specific input to illustrate, by listing the strategies you used, or by including a diagram [directly from Sketchboard.io](https://sketchboard.io/blog/2014/03/06/github-sketchboard.html).
+0. Take 2 arguments: string and number
+1. return a string (1st argument repeated "2nd-argument" times)
 
 [TOP](#index)
 
