@@ -6,7 +6,7 @@
 > 6. Publish and include this repo in your Codewar Gallery
 
 
-# [<challenge name>](https://www.codewars.com/kata/<challenge name>)
+# [<challenge name>](https://www.codewars.com/kata/string-repeat)
 
 Explain the challenge as completely as you can.
 
@@ -60,11 +60,7 @@ ___
 
 ## Language Features
 
-List the language features used in your solution.
-
-The focus of these exercises are to strengthen you problem solving skills, not to learn the newest ES6 tricks. When you have the choice between to different language features it is better to choose the option that is easiest to read, most common, or most consistent with the rest of your solution.  
-
-Keeping track of the language features you use will enable you separate the problem solving strategy from the implementation.  Being aware of this difference will be an asset later on when you're faced with larger applications and popular frameworks.
+str.repeat(count)
 
 [TOP](#index)
 
@@ -72,6 +68,7 @@ Keeping track of the language features you use will enable you separate the prob
 ## Uses
 
 Dummy text
+other applications
 
 
 
@@ -82,33 +79,24 @@ Dummy text
 ## Learning Journal
 
 Things I learned studying this problem:
-* 
-*
-*
-*
+* .repeat() method
 
 New vocabulary:
-* 
-* 
-*
-*
+* none
+
 
 Things I struggled with:
-* 
-* 
-* 
-* 
+* none
+
 
 My study goals and stragegies:
-* 
-* 
-* 
-*
+* get this kata done
+
 
 
 [TOP](#index)
 
 ___
 ___
-### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34921062-506450ae-f97d-11e7-875f-6feeb26ad72d.png" width="100" height="40"/></a>
+
 
