@@ -5,32 +5,6 @@ tests({
   '': function() {
     eq("2, "I"", solution("II"));
   },
-  '': function() {
-    eq("", solution(""));
-  },
-  '': function() {
-    eq("", solution(""));
-  },
-  '': function() {
-    eq("", solution(""));
-  },
-  '': function() {
-    eq("", solution(""));
-  },
-  '': function() {
-    eq("", solution(""));
-  },
-  '': function() {
-    eq("", solution(""));
-  },
-  '': function() {
-    eq("", solution(""));
-  },
-  '': function() {
-    eq("", solution(""));
-  },
-  '': function() {
-    eq("", solution(""));
-  }
+  
 
 });
