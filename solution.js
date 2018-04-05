@@ -1,6 +1,6 @@
 // Your code here
 
-function repeatStr(num, str) {
+function solution(num, str) {
   return str.repeat(num);
 
 }
