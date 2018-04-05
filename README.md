@@ -11,11 +11,11 @@
 Explain the challenge as completely as you can.
 
 <function name>: Function
-* Args: (how many args does this function take?)
-  * (List each arg, it's type, and it's purpose)
-* Return: (what type does this function return?)
-  * (Describe the return value)
-* Behavior: (What does this function do?)
+* Args: 2 args
+  * number and string
+* Return: 
+  * returns a string
+* Behavior: Repeats the string
 
 
 ### Index
@@ -71,7 +71,8 @@ Keeping track of the language features you use will enable you separate the prob
 ---
 ## Uses
 
-List some applications or use cases for your solution.  Try for 3-5.
+Dummy text
+
 
 
 [TOP](#index)
