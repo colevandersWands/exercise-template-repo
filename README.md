@@ -1,14 +1,6 @@
-> 1. Fork+clone this repo
-> 2. Set your gh-pages to build from master branch
-> 3. Put a link to the tests in your repo's description
-> 4. Choose a Codewar Kata to study
-> 5. Go through the repo and fill in every blank
-> 6. Publish and include this repo in your Codewar Gallery
+# [String repeat](https://www.codewars.com/kata/string-repeat)
 
-
-# [<challenge name>](https://www.codewars.com/kata/string-repeat)
-
-Explain the challenge as completely as you can.
+Write a function called which repeats the given string string exactly n times.
 
 <function name>: Function
 * Args: 2 args
