@@ -2,7 +2,7 @@
 
 Write a function called which repeats the given string string exactly n times.
 
-<function name>: Function
+solution: Function
 * Args: 2 args
   * number and string
 * Return: 
