@@ -3,7 +3,7 @@ tests({
   // Fill this in with test cases for your solution
 
   '': function() {
-    eq("(2, 'I')", solution("II"));
+    eq("II", solution(2, "I"));
   },
   
 
